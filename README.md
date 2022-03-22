@@ -12,7 +12,8 @@ Matakuliah  : Pemrograman Web
     
 
 - Buatlah dokumen HTML dengan menggunakan koodingan dasar pada HTML, Contohnya sebagai berikut:
-![e1](https://user-images.githubusercontent.com/81581236/113515920-93fc7080-95a1-11eb-9b53-fbb2830fd0b2.PNG)
+![ss1](https://user-images.githubusercontent.com/46867774/159480392-fb877245-e542-4c94-a8e0-b3052dfc3568.png)
+
 
 - Lalu jalankan VSCODE dengan mengklik menu terminal yang berada pada kiri atas pada VS CODE, dan pilih Run Active File. Otomatis langsung terhubung ke Web Browser. contohnya pada gambar:
  ![ee](https://user-images.githubusercontent.com/81581236/113516135-da9e9a80-95a2-11eb-8bfc-93930fec67b5.PNG)
