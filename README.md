@@ -27,13 +27,13 @@ Matakuliah  : Pemrograman Web
 ![ss3](https://user-images.githubusercontent.com/46867774/159485353-be1c7a3f-5d0e-48ad-ae41-0be81ef213f3.png)
 
 
-Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lakukan refresh pada browser yang tadi untuk melihat hasil perubahannya.
+Selanjutnya Simpan Perubahan pada codingan anda dengan mengklik CTRL+S, dan lakukan refresh pada browser yang tadi untuk melihat hasil perubahannya.
 ![ss4](https://user-images.githubusercontent.com/46867774/159485408-6a6c224d-acdc-4b87-8707-5dd88f30c080.png)
 
 
 **3. Menambahkan Inline CSS**
 
-- Kemudian tambahakan deklarasi Inline CSS pada tag seperti berikut.
+- Kemudian tambahkan deklarasi Inline CSS pada tag seperti berikut.
 ![ss5](https://user-images.githubusercontent.com/46867774/159486870-1a0deb7f-5838-4a34-8ff5-62a79bece1b4.png)
     
 - Simpan hasil  perubahan dengan CTRL+S, dan refresh kembali web Browser untuk melihat perubahannya.
