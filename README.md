@@ -51,12 +51,11 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 **5. Menambahkan CSS Selector**
 - Selanjutnya menambahkan CSS Selector menggunakan Id dan Class Selector pada file style_eksternal.css, lalu tambahan Code berikut:
+![ss10](https://user-images.githubusercontent.com/46867774/159549958-799f6247-03ef-4a16-b376-ed7926785e73.png)
 
-![e10](https://user-images.githubusercontent.com/81581236/113516826-a3ca8380-95a6-11eb-9f4f-07b8fc77846b.PNG)
 
 - Kemudian simpan kembali dan refresh browser untuk melihat hasil perubannya.
-
-![e14](https://user-images.githubusercontent.com/81581236/113576201-4fc4ab00-9649-11eb-91a1-9c7bfa7c3607.PNG)
+![ss11](https://user-images.githubusercontent.com/46867774/159549932-98f3e674-ce60-43b0-a0b5-fa7469f537ab.png)
 
 
 6. Melaukan Validasi dokumen CSS dengan mengakses https://jigsaw.w3.org/css-validator/
