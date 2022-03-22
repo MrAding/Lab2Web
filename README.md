@@ -24,12 +24,12 @@ Matakuliah  : Pemrograman Web
  
 
 -  Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian Head dokumen.
+![ss3](https://user-images.githubusercontent.com/46867774/159485353-be1c7a3f-5d0e-48ad-ae41-0be81ef213f3.png)
 
-![e3](https://user-images.githubusercontent.com/81581236/113516356-03735f80-95a4-11eb-9963-ebe7bc72996c.PNG)
 
 Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lakukan refresh pada browser yang tadi untuk melihat hasil perubahannya.
+![ss4](https://user-images.githubusercontent.com/46867774/159485408-6a6c224d-acdc-4b87-8707-5dd88f30c080.png)
 
-![e4](https://user-images.githubusercontent.com/81581236/113516495-c196e900-95a4-11eb-9d7a-115d9e7431db.PNG)
 
 **3. Menambahkan Inline CSS**
 
