@@ -1,0 +1,56 @@
+style_eksternal.css
+nav {
+    background: #20A759;
+    color:#00f562;
+    padding: 10px;
+}
+nav a {
+    color: #3252a9;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #00f562;
+
+}
+
+
+#intro {
+    background: #10a887;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0px;
+    color: rgb(241, 220, 24);
+}
+
+
+.button {
+    padding: 15px 20px;
+    background: #08a7e6;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background: #e42a42;
+
+}
+
+.btn-primary {
+    background: #f30909;
+}
+
+
+
+
+
+
+
+
