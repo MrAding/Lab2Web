@@ -33,7 +33,7 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 **3. Menambahkan Inline CSS**
 
-- Kemudian tambahakan deklarasi Inline CSS pada tag <p> seperti berikut.
+- Kemudian tambahakan deklarasi Inline CSS pada tag seperti berikut.
 ![ss5](https://user-images.githubusercontent.com/46867774/159486870-1a0deb7f-5838-4a34-8ff5-62a79bece1b4.png)
     
 - Simpan hasil  perubahan dengan CTRL+S, dan refresh kembali web Browser untuk melihat perubahannya.
