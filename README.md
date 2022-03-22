@@ -34,10 +34,12 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 **3. Menambahkan Inline CSS**
 
 - Kemudian tambahakan deklarasi Inline CSS pada tag <p> seperti berikut.
-![e5](https://user-images.githubusercontent.com/81581236/113516577-3407c900-95a5-11eb-8144-3efcdcd708b7.PNG)
-- Simpan hasil  perubahan dengan CTRL+S, dan refresh kembali web Browser untuk melihat perubahannya.
+![ss5](https://user-images.githubusercontent.com/46867774/159486870-1a0deb7f-5838-4a34-8ff5-62a79bece1b4.png)
 
-![e6](https://user-images.githubusercontent.com/81581236/113516625-792bfb00-95a5-11eb-9d7c-2b004dca68a6.PNG)
+    
+- Simpan hasil  perubahan dengan CTRL+S, dan refresh kembali web Browser untuk melihat perubahannya.
+![ss6](https://user-images.githubusercontent.com/46867774/159486951-2ade64b5-f9ea-4f58-99ef-2bad3627ec41.png)
+
 
 **4. Membuat CSS Eksternal.**
 - Buatlah File baru dengan nama style_eksternal.css dan kemudian buatlah deklarasi CSS berikut:
