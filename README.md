@@ -43,14 +43,17 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 **4. Membuat CSS Eksternal.**
 - Buatlah File baru dengan nama style_eksternal.css dan kemudian buatlah deklarasi CSS berikut:
+![ss7](https://user-images.githubusercontent.com/46867774/159545976-d790e23d-570c-4cd2-a66f-1e91c1e4e54f.png)
 
-![e7](https://user-images.githubusercontent.com/81581236/113516664-b8f2e280-95a5-11eb-9854-f047e8490294.PNG)
+
 - Kemudian tambahkan <link untuk merujuk File CSS yang telah dibuat pada bagian Head
+![ss8](https://user-images.githubusercontent.com/46867774/159545977-f1eceefa-d26b-4fff-88a4-be30b8f9b9ee.png)
 
-![e8](https://user-images.githubusercontent.com/81581236/113516706-edff3500-95a5-11eb-9938-53a012708df6.PNG)
+
 - selanjutnya refresh kembali browser untuk melihat perubahannya.
+![ss9](https://user-images.githubusercontent.com/46867774/159546023-ddd0f429-ca1e-4532-8d00-ce07ce28b507.png)
 
-![e9](https://user-images.githubusercontent.com/81581236/113516741-23a41e00-95a6-11eb-8e67-e68ac5cfdfc5.PNG)
+
 
 **5. Menambahkan CSS Selector**
 - Selanjutnya menambahkan CSS Selector menggunakan Id dan Class Selector pada file style_eksternal.css, lalu tambahan Code berikut:
