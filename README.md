@@ -88,7 +88,9 @@ Penyelesaian:
 3. Deklarasi yang akan ditampilkan adalah deklarasi Inline yang akan di tampilkan pada Web Browser
 4. Apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi yang akan di tampilkan pada Web Browser adalah Class ID. Karena Class ID secara individu mewakili semua atribut yang ada. 
 - untuk contohnya dapat kita lihat, pada gambar berikut:
-![e15](https://user-images.githubusercontent.com/81581236/113592289-27e04200-965f-11eb-8702-fa4ea9cf0f42.PNG)
-![e16](https://user-images.githubusercontent.com/81581236/113593270-6de9d580-9660-11eb-8423-00f92d630096.PNG)
+![ss14](https://user-images.githubusercontent.com/46867774/159554985-da18f8c5-f224-4323-a427-ccb6c70a42fc.png)
+![ss15](https://user-images.githubusercontent.com/46867774/159555018-c819e72e-110c-4b66-99d3-fe7e4afcc14d.png)
+
 untuk tampilan di Web Browsernya seperti gambar :
-![e17](https://user-images.githubusercontent.com/81581236/113593352-89ed7700-9660-11eb-8c68-4574399820a9.PNG)
+![ss16](https://user-images.githubusercontent.com/46867774/159555054-f2e621bc-79c7-4205-8fc3-2ccfd40acd52.png)
+
