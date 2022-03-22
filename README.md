@@ -15,9 +15,9 @@ Matakuliah  : Pemrograman Web
 ![ss1](https://user-images.githubusercontent.com/46867774/159480392-fb877245-e542-4c94-a8e0-b3052dfc3568.png)
 
 
-- Lalu jalankan VSCODE dengan mengklik menu terminal yang berada pada kiri atas pada VS CODE, dan pilih Run Active File. Otomatis langsung terhubung ke Web Browser. contohnya pada gambar:
- ![ee](https://user-images.githubusercontent.com/81581236/113516135-da9e9a80-95a2-11eb-8bfc-93930fec67b5.PNG)
-![e2](https://user-images.githubusercontent.com/81581236/113516140-e38f6c00-95a2-11eb-896b-984abdf293f4.PNG)
+- Lalu jalankan VSCODE dengan mengklik menu terminal yang berada pada kiri atas pada VS CODE, dan pilih Run Active File. Otomatis langsung terhubung ke Web Browser :
+![ss2](https://user-images.githubusercontent.com/46867774/159481851-7d8701c0-9a04-4249-8114-d046db1f850b.png)
+
 
 **2. Mendeklarasikan CSS Internal**
     
