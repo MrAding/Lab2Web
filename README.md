@@ -1,4 +1,4 @@
-# Lab2Web
+# Tugas Praktikum 2 - Lab2Web
 ```
 NAMA        : AHMAD FADHIIL MUTTAQIN
 NIM         : 312010615
@@ -94,3 +94,4 @@ Penyelesaian:
 untuk tampilan di Web Browsernya seperti gambar :
 ![ss16](https://user-images.githubusercontent.com/46867774/159555054-f2e621bc-79c7-4205-8fc3-2ccfd40acd52.png)
 
+# Sekian & Terimakasih
