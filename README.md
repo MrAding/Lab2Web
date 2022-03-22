@@ -58,9 +58,11 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 ![ss11](https://user-images.githubusercontent.com/46867774/159549932-98f3e674-ce60-43b0-a0b5-fa7469f537ab.png)
 
 
-6. Melaukan Validasi dokumen CSS dengan mengakses https://jigsaw.w3.org/css-validator/
-![e12](https://user-images.githubusercontent.com/81581236/113517206-bf368e00-95a8-11eb-92e4-b6e921587c35.PNG)
-![e13](https://user-images.githubusercontent.com/81581236/113517214-c52c6f00-95a8-11eb-85b8-2a60929d8b67.PNG)
+6. Melakukan Validasi dokumen CSS dengan mengakses https://jigsaw.w3.org/css-validator/
+![ss12](https://user-images.githubusercontent.com/46867774/159550492-440b2868-3891-4125-92e8-974d2f9bd550.png)
+
+*Setelah melakukan Validasi dokumen CSS
+![ss13](https://user-images.githubusercontent.com/46867774/159550679-952d56a3-86a8-40bd-95d2-48e15e5df363.png)
 
 
 Tugas !
